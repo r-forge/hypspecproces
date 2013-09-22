@@ -1,0 +1,9 @@
+Package: HDR
+Type: Package
+Title: Processing of hyperspectral reflectance data
+Version: 1.0
+Date: 2013-07-23
+Author: Hans D. Roelofsen, KWR Watercycle Research Institute
+Maintainer: HDR,  <hans.roelofsen@kwrwater.nl>
+Description: Package contains two functions for processing hyperspectral reflectance data: 1) generates average reflection in several broadband spectral regions and 2) identifies spectral regions with low SN ratio
+License: ?
